@@ -6,7 +6,7 @@ Coming soon:
 - Cookies failover
 - Allow to choose between localStorage and sessionStorage
 
-##Usage
+## Usage
 To save a JSON object:
 `var johnDoe = { name: 'John', lastName: 'Doe' }`
 `LocalStoragePersistence.saveJsonObject('userData-johnDoe', johnDoe)`
