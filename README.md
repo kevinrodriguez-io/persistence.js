@@ -16,4 +16,4 @@ To save a JSON object:
 
 To retrieve a JSON object:
 
-`var johnDoe = LocalStoragePersistence.loadJsonObject('johnDoe')`
+`var johnDoe = LocalStoragePersistence.loadJsonObject('userData-johnDoe')`
